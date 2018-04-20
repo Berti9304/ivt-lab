@@ -28,6 +28,7 @@ As this is a really simple project, you can use the command-line build tool and 
 
 ## Overview
 
+I like spaceships.
 The project represents an alpha version of a spaceship.
 
 - The ship (`SpaceShip` interface) can fire one or more lasers or torpedos.
